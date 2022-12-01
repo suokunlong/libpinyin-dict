@@ -897,6 +897,8 @@
 联防联控 lian'fang'lian'kong
 躺平 tang'ping
 蔬菜包 shu'cai'bao
+致病率 zhi'bing'lv
+监测点 jian'ce'dian
 进京证 jin'jing'zheng
 智能灶 zhi'neng'zao
 智能热水器 zhi'neng're'shui'qi
@@ -1032,3 +1034,23 @@
 方岱宁 fang'dai'ning
 李立明 li'li'ming
 亚细安 ya'xi'an
+
+分隔符 fen'ge'fu
+逗号分隔符 dou'hao'fen'ge'fu
+制表位分隔符 zhi'biao'wei'fen'ge'fu
+边距 bian'ju
+磅值 bang'zhi
+仿宋 fang'song
+方正小标宋 fang'zheng'xiao'biao'song
+华文仿宋 hua'wen'fang'song
+
+整十 zheng'shi
+整千 zheng'qian
+整万 zheng'wan
+得数 de'shu
+金隅 jin'yu
+花石匠 hua'shi'jiang
+
+通配符 tong'pei'fu
+
+榆中 yu'zhong
