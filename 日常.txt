@@ -1054,3 +1054,7 @@
 通配符 tong'pei'fu
 
 榆中 yu'zhong
+
+以太坊 yi'tai'fang
+以太币 yi'tai'bi
+火币 huo'bi
