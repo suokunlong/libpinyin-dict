@@ -219,12 +219,12 @@
 ## 财务会计及税务专有词汇
 ## Specialized words for financial accounting and taxation
 
-财务会计 cai'wu'hui'ji
-成本会计 cheng'ben'hui'ji
-应收应付会计 ying'shou'ying'fu'hui'ji
-固定资产会计 gu'ding'zi'chan'hui'ji
+财务会计 cai'wu'kuai'ji
+成本会计 cheng'ben'kuai'ji
+应收应付会计 ying'shou'ying'fu'kuai'ji
+固定资产会计 gu'ding'zi'chan'kuai'ji
 税务 shui'wu
-税务会计 shui'wu'hui'ji
+税务会计 shui'wu'kuai'ji
 审计报告 shen'ji'bao'gao
 审核报告 shen'he'bao'gao
 财务报表 cai'wu'bao'biao
