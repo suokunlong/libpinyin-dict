@@ -1,10 +1,4 @@
 # 常用词库汇总
-# 适用于 libpinyin，可直接导入。
-# 本词库以 GNU 公共许可协议授权。
-# Contributors:
-#   Kevin Suo <suokunlong@126.com>
-
-# Last Updated: 2022-10-10
 
 编程 bian'cheng
 程序员 cheng'xu'yuan
@@ -1058,3 +1052,34 @@
 以太坊 yi'tai'fang
 以太币 yi'tai'bi
 火币 huo'bi
+
+## 中国媒体十大热词
+## Top 10 Trending China Media Terms
+
+### 2025
+
+十五五规划 shi'wu'wu'gui'hua
+十五五 shi'wu'wu
+九三阅兵 jiu'san'yue'bing
+全球治理倡议 quan'qiu'zhi'li'chang'yi
+深度求索 shen'du'qiu'suo
+人形机器人 ren'xing'ji'qi'ren
+苏超 su'chao
+票根经济 piao'gen'jing'ji
+育儿补贴 yu'er'bu'tie
+科学素养 ke'xue'su'yang
+网络生态治理 wang'luo'sheng'tai'zhi'li
+
+### 2024
+
+新质生产力 xin'zhi'sheng'chan'li
+人工智能 ren'gong'zhi'neng
+立德树人 li'de'shu'ren
+巴黎奥运会 ba'li'ao'yun'hui
+全球南方 quan'qiu'nan'fang
+中国游 zhong'guo'you
+以旧换新 yi'jiu'huan'xin
+低空经济 di'kong'jing'ji
+未来产业 wei'lai'chan'ye
+新职业 xin'zhi'ye
+
