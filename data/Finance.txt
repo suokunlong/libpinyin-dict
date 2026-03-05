@@ -1,20 +1,8 @@
 # 财务会计相关词汇
+# Words related to financial accounting
 
-# 整理：Kevin Suo <suokunlong@126.com>
-
-#   This file is free for use: you can redistribute it and/or modify
-#   it under the terms of the GNU General Public License as published by
-#   the Free Software Foundation, either version 3 of the License, or
-#   (at your option) any later version.
-
-#   This file is distributed in the hope that it will be useful,
-#   but WITHOUT ANY WARRANTY; without even the implied warranty of
-#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#   GNU General Public License for more details.
-
-#   You should have received a copy of the GNU General Public License
-#   along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+## 会计要素、报表项目及会计科目
+## Accounting elements, financial statement items, and ledger accounts
 
 资产 zi'chan
 流动资产 liu'dong'zi'chan
@@ -137,8 +125,8 @@
 一般风险准备 yi'ban'feng'xian'zhun'bei
 未分配利润 wei'fen'pei'li'run
 外币报表折算差额 wai'bi'bao'biao'zhe'suan'cha'e
-归属于母公司所有者权益、 gui'zhu'yu'mu'gong'si'suo'you'zhe'quan'yi'、
-归属于母公司股东权益、 gui'zhu'yu'mu'gong'si'gu'dong'quan'yi'、
+归属于母公司所有者权益  gui'zhu'yu'mu'gong'si'suo'you'zhe'quan'yi'、
+归属于母公司股东权益  gui'zhu'yu'mu'gong'si'gu'dong'quan'yi'、
 少数股东权益 shao'shu'gu'dong'quan'yi
 所有者权益合计 suo'you'zhe'quan'yi'he'ji
 股东权益合计 gu'dong'quan'yi'he'ji
@@ -156,25 +144,28 @@
 手续费及佣金 shou'xu'fei'ji'yong'jin
 手续费及佣金收入 shou'xu'fei'ji'yong'jin'shou'ru
 营业总成本 ying'ye'zong'cheng'ben
-其中营业成本 qi'zhong'ying'ye'cheng'ben
-减营业成本 jian'ying'ye'cheng'ben
-减主营业务成本 jian'zhu'ying'ye'wu'cheng'ben
-其中主营业务成本 qi'zhong'zhu'ying'ye'wu'cheng'ben
+营业成本 ying'ye'cheng'ben
+主营业务成本 zhu'ying'ye'wu'cheng'ben
 其他业务成本 qi'ta'ye'wu'cheng'ben
 利息支出 li'xi'zhi'chu
 手续费及佣金支出 shou'xu'fei'ji'yong'jin'zhi'chu
 退保金 tui'bao'jin
 赔付支出净额 pei'fu'zhi'chu'jing'e
+赔付支出 pei'fu'zhi'chu
 提取保险合同准备金净额 ti'qu'bao'xian'he'tong'zhun'bei'jin'jing'e
 保单红利支出 bao'dan'hong'li'zhi'chu
 分保费用 fen'bao'fei'yong
 营业税金及附加 ying'ye'shui'jin'ji'fu'jia
 主营业务税金及附加 zhu'ying'ye'wu'shui'jin'ji'fu'jia
+税金及附加 shui'jin'ji'fu'jia
 销售费用 xiao'shou'fei'yong
 管理费用 guan'li'fei'yong
 研究与开发费 yan'jiu'yu'kai'fa'fei
+研究与开发费用 yan'jiu'yu'kai'fa'fei'yong
+研究及开发费用 yan'jiu'yi'kai'fa'fei'yong
 财务费用 cai'wu'fei'yong
-其中利息支出 qi'zhong'li'xi'zhi'chu
+利息支出 li'xi'zhi'chu
+汇兑损失 hui'dui'sun'shi
 汇兑净损失 hui'dui'jing'sun'shi
 汇兑损益 hui'dui'sun'yi
 汇兑收益 hui'dui'shou'yi
@@ -209,7 +200,9 @@
 转作股本的股利 zhuan'zuo'gu'ben'de'gu'li
 期末未分配利润 qi'mo'wei'fen'pei'li'run
 本期金额 ben'qi'jin'e
+本年金额 ben'nian'jin'e
 上期金额 shang'qi'jin'e
+上年金额 shang'nian'jin'e
 同比 tong'bi
 环比 huan'bi
 负债 fu'zhai
@@ -220,6 +213,12 @@
 权益 quan'yi
 制造费用 zhi'zao'fei'yong
 现金流量 xian'jin'liu'liang
+试算平衡表 shi'suan'ping'heng'biao
+科目余额表 ke'mu'yu'e'biao
+
+## 财务会计及税务专有词汇
+## Specialized words for financial accounting and taxation
+
 财务会计 cai'wu'hui'ji
 成本会计 cheng'ben'hui'ji
 应收应付会计 ying'shou'ying'fu'hui'ji
@@ -278,8 +277,8 @@
 折让 zhe'rang
 退回 tui'hui
 折扣 zhe'kou
-借 jie
-贷 dai
+借方 jie'fang
+贷方 dai'fang
 追索权 zhui'suo'quan
 包装物 bao'zhuang'wu
 低值易耗品 di'zhi'yi'hao'pin
@@ -514,8 +513,18 @@
 领料 ling'liao
 收率 shou'lv
 提纯 ti'chun
+董事会秘书 dong'shi'hui'mi'shu
+董秘 dong'mi
+
+## 反倾销及反补贴
+## Antidumping and Countervailing Duty
+
 反倾销 fan'qing'xiao
+倾销 qing'xiao
+反倾销税 fan'qing'xiao'shui
 反补贴 fan'bu'tie
+补贴 bu'tie
+反补贴税 fan'bu'tie'shui
 单独税率 dan'du'shui'lv
 数量金额 shu'liang'jin'e
 平均税率 ping'jun'shui'lv
@@ -535,14 +544,11 @@
 替代国价格 ti'dai'guo'jia'ge
 案件辩论 an'jian'bian'lun
 申诉 shen'su
+申请书 shen'qing'shu
 正常价值 zheng'chang'jia'zhi
 出口价格 chu'kou'jia'ge
-倾销 qing'xiao
-补贴 bu'tie
 倾销幅度 qing'xiao'fu'du
 补贴幅度 bu'tie'fu'du
-反倾销税 fan'qing'xiao'shui
-反补贴税 fan'bu'tie'shui
 紧急情形 jin'ji'qing'xing
 追溯征税 zhui'su'zheng'shui
 特殊情形 te'shu'qing'xing
@@ -551,12 +557,15 @@
 构造价格 gou'zao'jia'ge
 生产要素 sheng'chan'yao'su
 耗量 hao'liang
+耗用量 hao'yong'liang
 消耗 xiao'hao
 消耗量 xiao'hao'liang
 损耗率 sun'hao'lv
+包装材料 bao'zhuang'cai'liao
 包材 bao'cai
 人工工时 ren'gong'gong'shi
 工时 gong'shi
+副产品 fu'chan'pin
 副产品抵扣 fu'chan'pin'di'kou
 价格调整 jia'ge'diao'zheng
 字段名称 zi'duan'ming'chen
@@ -586,8 +595,12 @@
 清关 qing'guan
 技术性说明 ji'shu'xing'shuo'ming
 商务部 shang'wu'bu
+美国商务部 mei'guo'shang'wu'bu
+中国商务部 zhong'guo'shang'wu'bu
 国际贸易委员会 guo'ji'mao'yi'wei'yuan'hui
 五矿 wu'kuang
+五矿商会 wu'kuang'shang'hui
+轻工商会 qing'gong'shang'hui
 答卷 da'juan
 原始答卷 yuan'shi'da'juan
 补卷 bu'juan
@@ -597,10 +610,6 @@
 截止 jie'zhi
 肯定性 ken'ding'xing
 延期 yan'qi
-董事会秘书 dong'shi'hui'mi'shu
-董秘 dong'mi
-试算平衡表 shi'suan'ping'heng'biao
-科目余额表 ke'mu'yu'e'biao
 双重救济 shuang'zhong'jiu'ji
 世贸协定 shi'mao'xie'ding
 世贸规则 shi'mao'gui'ze
@@ -610,6 +619,8 @@
 国际法 guo'ji'fa
 核查大纲 he'cha'da'gang
 核查官员 he'cha'guan'yuan
+调查官员 diao'cha'guan'yuan
+调查官 diao'cha'guan
 核查报告 he'cha'bao'gao
 听证会 ting'zheng'hui
 产业损害 chan'ye'sun'hai
@@ -618,4 +629,3 @@
 损害威胁 sun'hai'wei'xie
 事实信息 shi'shi'xin'xi
 微小差错 wei'xiao'cha'cuo
-
