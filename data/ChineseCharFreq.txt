@@ -1,4 +1,4 @@
-# 现代汉语字频表
+# 现代汉语语料库字频表
 # http://www.aihanyu.org/cncorpus/Resources.aspx
 
 的 de 4.8867

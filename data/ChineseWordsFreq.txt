@@ -1,3 +1,4 @@
+# 现代汉语词频表
 # http://www.aihanyu.org/cncorpus/Resources.aspx
 
 的 de 7.7946
