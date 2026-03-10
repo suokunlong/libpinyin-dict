@@ -242,3 +242,31 @@
 损害威胁 sun'hai'wei'xie
 事实信息 shi'shi'xin'xi
 微小差错 wei'xiao'cha'cuo
+
+## 民法典
+
+民法典 min'fa'dian
+基本规定 ji'ben'gui'ding
+民事主体 min'shi'zhu'ti
+合法权益 he'fa'quan'yi
+民事关系 min'shi'guan'xi
+自然人 zi'ran'ren
+法人 fa'ren
+非法人组织 fei'fa'ren'zu'zhi
+人身关系 ren'shen'guan'xi
+财产关系 cai'chan'guan'xi
+人身权利 ren'shen'quan'li
+财产权利 cai'chan'quan'li
+法律地位 fa'lv'di'wei
+民事活动 min'shi'huo'dong
+设立 she'li
+变更 bian'geng
+终止 zhong'zhi
+民事纠纷 min'shi'jiu'fen
+公序良俗 gong'xu'liang'su
+自然人 zi'ran'ren
+民事权利能力 min'shi'quan'li'neng'li
+民事行为能力 min'shi'xing'wei'neng'li
+民事权利 min'shi'quan'li
+民事义务 min'shi'yi'wu
+

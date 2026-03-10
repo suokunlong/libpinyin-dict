@@ -118,7 +118,6 @@
 黄玉米 huang'yu'mi
 白玉米 bai'yu'mi
 混合玉米 hun'he'yu'mi
-唛头 ma'tou
 槽罐车 cao'guan'che
 
 优酷 you'ku
@@ -133,6 +132,12 @@
 排水管 pai'shui'guan
 给水管 gei'shui'guan
 
+没交 mei'jiao
+交了 jiao'le
+交过 jiao'guo
+交出去了 jiao'chu'qu'le
+等会儿 deng'hui'er
+都得删掉 dou'de'shan'diao
 
 # 企业名称
 清水源 qing'shui'yuan
@@ -1060,6 +1065,7 @@
 喝碗粥 he'wan'zhou
 清醒清醒 qing'xing'qing'xing
 聊会儿天 liao'hui'er'tian
+语料 yu'liao
 
 ## 中国媒体十大热词
 ## Top 10 Trending China Media Terms

@@ -1,5 +1,5 @@
-# 经济相关词汇
-# Economic related words
+# 经济及贸易相关词汇
+# Economic and trade related words
 
 ## 上市公司名称
 
@@ -3553,3 +3553,60 @@
 凯马 kai'ma
 东贝 dong'bei
 凌云 ling'yun
+
+## 贸易
+## Trade
+
+唛头 mai'tou
+装箱费 zhuang'xiang'fei
+托盘费 tuo'pan'fei
+空箱 kong'xiang
+缠绕膜 chan'rao'mo
+拉伸膜 la'shen'mo
+干燥剂 gan'zao'ji
+加固费 jia'gu'fei
+报关费 bao'guan'fei
+单票合计 dan'piao'he'ji
+小袋 xiao'dai
+吨包 dun'bao
+吨袋 dun'dai
+集装袋 ji'zhuang'dai
+自然箱 zi'ran'xiang
+标准箱 biao'zhun'xiang
+空箱 kong'xiang
+二十尺 er'shi'chi
+四十尺 si'shi'chi
+毛重 mao'zhong
+净重 jing'zhong
+长吨 chang'dun
+短吨 duan'dun
+地磅 di'bang
+过磅 guo'bang
+陆运 lu'yun
+海运 hai'yun
+毛售价 mao'shou'jia
+净售价 jing'shou'jia
+提单号 ti'dan'hao
+主提单号 zhu'ti'dan'hao
+分提单号 fen'ti'dan'hao
+报关单 bao'guan'dan
+关单 guan'dan
+截关 jie'guan
+截关时间 jie'guan'shi'jian
+船期 chuan'qi
+目的港 mu'di'gang
+业务员 ye'wu'yuan
+外付 wai'fu
+内付 nei'fu
+船名
+航次 hang'ci
+船名航次 chuan'ming'hang'ci
+外调标志 wai'diao'biao'zhi
+品名 pin'ming
+打托 da'tuo
+中远 zhong'yuan
+中远海运 zhong'yuan'hai'yun
+中创 zhong'chuang
+中创物流 zhong'chuang'wu'liu
+外销 wai'xiao
+内销 nei'xiao
