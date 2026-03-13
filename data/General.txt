@@ -1067,6 +1067,15 @@
 聊会儿天 liao'hui'er'tian
 语料 yu'liao
 
+液氧 ye'yang
+液氮 ye'dan
+氮气 dan'qi
+液氨 ye'an
+氨气 an'qi
+液氯 ye'lv
+氯气 lv'qi
+氯水 lv'shui
+
 ## 中国媒体十大热词
 ## Top 10 Trending China Media Terms
 
