@@ -3557,6 +3557,7 @@
 ## 贸易
 ## Trade
 
+唛 mai
 唛头 mai'tou
 装箱费 zhuang'xiang'fei
 托盘费 tuo'pan'fei
