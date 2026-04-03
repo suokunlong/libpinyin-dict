@@ -350,6 +350,7 @@
 二级科目 er'ji'ke'mu
 三级科目 san'ji'ke'mu
 末级科目 mo'ji'ke'mu
+总账 zong'zhang
 总账科目 zong'zhang'ke'mu
 融资租入 rong'zi'zu'ru
 融资租赁 rong'zi'zu'lin

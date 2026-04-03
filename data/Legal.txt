@@ -173,6 +173,8 @@
 耗用量 hao'yong'liang
 消耗 xiao'hao
 消耗量 xiao'hao'liang
+单耗 dan'hao
+单位耗用量 dan'wei'hao'yong'liang
 损耗率 sun'hao'lv
 包装材料 bao'zhuang'cai'liao
 包材 bao'cai
