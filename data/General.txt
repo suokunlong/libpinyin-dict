@@ -118,6 +118,34 @@
 黄玉米 huang'yu'mi
 白玉米 bai'yu'mi
 混合玉米 hun'he'yu'mi
+糯玉米 nuo'yu'mi
+绿萝卜 lv'luo'bo
+六六大顺 liu'liu'da'shun
+玉米浆 yu'mi'jiang
+玉米蛋白粉 yu'mi'dan'bai'fen
+喷浆玉米皮 pen'jiang'yu'mi'pi
+喷浆 pen'jiang
+玉米坯 yu'mi'pi
+稀糖 xi'tang
+液肥 ye'fei
+珠光袋 zhu'guang'dai
+珠光膜袋 zhu'guang'mo'dai
+纸塑复合袋 zhi'su'fu'he'dai
+塑料桶 su'liao'tong
+塑料筒 su'liao'tong
+除味剂 chu'wei'ji
+稻糠粉 dao'kang'fen
+磷酸一铵 lin'suan'yi'an
+蛋氨酸 dan'an'suan
+淀粉酶 dian'fen'mei
+植酸酶 zhi'suan'mei
+珍珠岩 zhen'zhu'yan
+苏氨酸 su'an'suan
+磷酸二氢钾 lin'suan'er'qing'jia
+氨基磺酸 an'ji'huang'suan
+溴硝醇 xiu'xiao'chun
+蒙脱石 meng'tuo'shi
+非转基因玉米 fei'zhuan'ji'yin'yu'mi
 槽罐车 cao'guan'che
 
 优酷 you'ku
@@ -1190,6 +1218,14 @@
 液氯 ye'lv
 氯气 lv'qi
 氯水 lv'shui
+机修 ji'xiu
+机修车间 ji'xiu'che'jian
+植酸钙 zhi'suan'gai
+巨能金玉米 ju'neng'jin'yu'mi
+油枪 you'qiang
+油管 you'guan
+免押 mian'ya
+零押 ling'ya
 
 ## 中国媒体十大热词
 ## Top 10 Trending China Media Terms
