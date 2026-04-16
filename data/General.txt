@@ -1158,7 +1158,7 @@
 睡了 shui'le
 睡吧 shui'ba
 着了没 zhao'le'mei
-闭眼经 bi'yan'jing
+闭眼睛 bi'yan'jing
 便宜点儿 pian'yi'dian
 捡便宜卖乖 jian'pian'yi'mai'guai
 白吃白喝 bai'chi'bai'he
@@ -1209,6 +1209,8 @@
 见鬼吧 jian'gui'ba
 装逼 zhuang'bi
 逗比 dou'bi
+咋说的 za'shuo'de
+发火了 fa'huo'le
 
 液氧 ye'yang
 液氮 ye'dan
@@ -1226,6 +1228,7 @@
 油管 you'guan
 免押 mian'ya
 零押 ling'ya
+调优 tiao'you
 
 ## 中国媒体十大热词
 ## Top 10 Trending China Media Terms

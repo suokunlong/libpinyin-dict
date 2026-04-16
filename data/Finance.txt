@@ -416,6 +416,9 @@
 差旅费 cha'lv'fei
 运输费 yun'shu'fei
 运费 yun'fei
+汽运 qi'yun
+汽运费 qi'yun'fei
+暂估 zan'gu
 业务招待费 ye'wu'zhao'dai'fei
 水电费 shui'dian'fei
 抄表 chao'biao
