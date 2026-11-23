@@ -1211,6 +1211,12 @@
 逗比 dou'bi
 咋说的 za'shuo'de
 发火了 fa'huo'le
+拒接 ju'jie
+忙线 mang'xian
+字段值 zi'duan'zhi
+铲斗 chan'dou
+割草机 ge'cao'ji
+工作线 gong'zuo'xian
 
 液氧 ye'yang
 液氮 ye'dan
@@ -1229,6 +1235,9 @@
 免押 mian'ya
 零押 ling'ya
 调优 tiao'you
+葡萄糖浆 pu'tao'tang'jiang
+果葡糖浆 guo'pu'tang'jiang
+缓蚀剂 huan'shi'ji
 
 ## 中国媒体十大热词
 ## Top 10 Trending China Media Terms

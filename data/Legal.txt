@@ -143,6 +143,7 @@
 平均税率 ping'jun'shui'lv
 分别税率 fen'bie'shui'lv
 强制应诉 qiang'zhi'ying'su
+调查期 diao'cha'qi
 关门期 guan'men'qi
 被调查产品 bei'diao'cha'chan'pin
 涉案产品 she'an'chan'pin
@@ -244,6 +245,7 @@
 损害威胁 sun'hai'wei'xie
 事实信息 shi'shi'xin'xi
 微小差错 wei'xiao'cha'cuo
+峰谷平 feng'gu'ping
 
 ## 民法典
 
