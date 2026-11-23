@@ -1239,6 +1239,62 @@
 果葡糖浆 guo'pu'tang'jiang
 缓蚀剂 huan'shi'ji
 
+匠心 jiang'xin
+匠人 jiang'ren
+是将 shi'jiang
+能工巧匠 neng'gong'qiao'jiang
+
+微信 wei'xin
+飞书 fei'shu
+钉钉 ding'ding
+字节跳动 zi'jie'tiao'dong
+阿里云 a'li'yun
+腾讯云 teng'xun'yun
+百度云 bai'du'yun
+咸语 xian'yu
+闲鱼 xian'yu
+转转 zhuan'zhuan
+豆包 dou'bao
+乘车码 cheng'che'ma
+滴滴 di'di
+滴滴出行 di'di'chu'xing
+滴滴车主 di'di'che'zhu
+高德 gao'de
+高德地图 gao'de'di'tu
+平安好车主 ping'an'hao'che'zhu
+顺丰 shun'feng
+顺丰快递 shun'feng'kuai'di
+中通 zhong'tong
+中通快递 zhong'tong'kuai'di
+圆通 yuan'tong
+圆通快递 yuan'tong'kuai'di
+申通 shen'tong
+申通快递 shen'tong'kuai'di
+韵达 yun'da
+韵达快递 yun'da'kuai'di
+邮政快递 you'zheng'kuai'di
+邮政速运 you'zheng'su'yun
+速运 su'yun
+速递 su'di
+取件码 qu'jian'ma
+兔喜生活 tu'xi'sheng'huo
+快递柜 kuai'di'gui
+代收点 dai'shou'dian
+寄快递 ji'kuai'di
+寄件 ji'jian
+收件 shou'jian
+揽件 lan'jian
+投递 tou'di
+快递员 kuai'di'yuan
+外卖员 wai'mai'yuan
+代驾 dai'jia
+滴滴代驾 di'di'dai'jia
+美团 mei'tuan
+美团跑腿 mei'tuan'pao'tui
+美团外卖 mei'tuan'wai'mai
+代购 dai'gou
+闪购 shan'gou
+
 ## 中国媒体十大热词
 ## Top 10 Trending China Media Terms
 
