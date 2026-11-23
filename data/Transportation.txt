@@ -4411,6 +4411,10 @@
 翟湾村 zhai'wan'cun
 老庄村 lao'zhuang'cun
 柳湖镇 liu'hu'zhen
+柳湖 liu'hu
+柳湖公园 liu'hu'gong'yuan
+南山公园 nan'shan'gong'yuan
+北山公园 bei'shan'gong'yuan
 新李村 xin'li'cun
 永红村 yong'hong'cun
 赵堡村 zhao'bao'cun
@@ -4420,8 +4424,14 @@
 南台村 nan'tai'cun
 柳湖村 liu'hu'cun
 泾滩村 jing'tan'cun
+泾河滩 jing'he'tan
+泾河 jing'he
+泾河大道 jing'he'da'dao
+泾河风情大道 jing'he'feng'qing'da'dao
+世博伟业 shi'bo'wei'ye
 保丰村 bao'feng'cun
 十里铺村 shi'li'pu'cun
+十里铺 shi'li'pu
 王坪村 wang'ping'cun
 马家庄村 ma'jia'zhuang'cun
 杜沟村 du'gou'cun
@@ -4586,6 +4596,8 @@
 桂井村 gui'jing'cun
 阳坡村 yang'po'cun
 白坡村 bai'po'cun
+白坡 bai'po
+白坡砖厂 bai'po'zhuan'chang
 唐庄村 tang'zhuang'cun
 唐庄 tang'zhuang
 毕家 bi'jia
@@ -4593,6 +4605,7 @@
 冯家 feng'jia
 冯家庄 feng'jia'zhuang
 唐庄小学 tang'zhuang'xiao'xue
+廖庄 liao'zhuang
 峡中 xia'zhong
 峡中水泥厂 xia'zhong'shui'ni'chang
 海螺水泥 hai'luo'shui'ni
